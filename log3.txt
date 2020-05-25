@@ -1,0 +1,326 @@
+--- 20190628 : 0.120 seconds , 1470 changed , 91048 addresses ---
+[2020-05-20 00:18:02] Saved to "Analysis/Values/0.3/20190628.bin"
+[2020-05-20 00:18:02] Analysis/Values/0.3/20190628-state.json - State saved
+--- 20190629 : 0.681 seconds , 1740 changed , 516931 addresses ---
+[2020-05-20 00:18:03] Saved to "Analysis/Values/0.3/20190629.bin"
+--- 20190630 : 1.534 seconds , 3896 changed , 958179 addresses ---
+[2020-05-20 00:18:05] Saved to "Analysis/Values/0.3/20190630.bin"
+--- 20190701 : 2.520 seconds , 5366 changed , 1473222 addresses ---
+[2020-05-20 00:18:08] Saved to "Analysis/Values/0.3/20190701.bin"
+--- 20190702 : 3.491 seconds , 7492 changed , 2019094 addresses ---
+[2020-05-20 00:18:12] Saved to "Analysis/Values/0.3/20190702.bin"
+--- 20190703 : 4.590 seconds , 7913 changed , 2555320 addresses ---
+[2020-05-20 00:18:17] Saved to "Analysis/Values/0.3/20190703.bin"
+--- 20190704 : 6.587 seconds , 7989 changed , 3029035 addresses ---
+[2020-05-20 00:18:25] Saved to "Analysis/Values/0.3/20190704.bin"
+--- 20190705 : 8.362 seconds , 8064 changed , 3493110 addresses ---
+[2020-05-20 00:18:34] Saved to "Analysis/Values/0.3/20190705.bin"
+--- 20190706 : 10.189 seconds , 7779 changed , 3907881 addresses ---
+[2020-05-20 00:18:45] Saved to "Analysis/Values/0.3/20190706.bin"
+--- 20190707 : 13.729 seconds , 7535 changed , 4236426 addresses ---
+[2020-05-20 00:19:00] Saved to "Analysis/Values/0.3/20190707.bin"
+--- 20190708 : 14.639 seconds , 7522 changed , 4655373 addresses ---
+[2020-05-20 00:19:15] Saved to "Analysis/Values/0.3/20190708.bin"
+--- 20190709 : 15.448 seconds , 8321 changed , 5138168 addresses ---
+[2020-05-20 00:19:32] Saved to "Analysis/Values/0.3/20190709.bin"
+--- 20190710 : 17.260 seconds , 8877 changed , 5587174 addresses ---
+[2020-05-20 00:19:51] Saved to "Analysis/Values/0.3/20190710.bin"
+--- 20190711 : 19.202 seconds , 9871 changed , 6008664 addresses ---
+[2020-05-20 00:20:12] Saved to "Analysis/Values/0.3/20190711.bin"
+--- 20190712 : 19.840 seconds , 9184 changed , 6451465 addresses ---
+[2020-05-20 00:20:33] Saved to "Analysis/Values/0.3/20190712.bin"
+--- 20190713 : 20.395 seconds , 8951 changed , 6797887 addresses ---
+[2020-05-20 00:20:54] Saved to "Analysis/Values/0.3/20190713.bin"
+--- 20190714 : 22.507 seconds , 7480 changed , 7111968 addresses ---
+[2020-05-20 00:21:18] Saved to "Analysis/Values/0.3/20190714.bin"
+--- 20190715 : 22.815 seconds , 7419 changed , 7484098 addresses ---
+[2020-05-20 00:21:42] Saved to "Analysis/Values/0.3/20190715.bin"
+--- 20190716 : 26.728 seconds , 8145 changed , 7924197 addresses ---
+[2020-05-20 00:22:10] Saved to "Analysis/Values/0.3/20190716.bin"
+--- 20190717 : 25.729 seconds , 8493 changed , 8317338 addresses ---
+[2020-05-20 00:22:37] Saved to "Analysis/Values/0.3/20190717.bin"
+--- 20190718 : 28.255 seconds , 10447 changed , 8715305 addresses ---
+[2020-05-20 00:23:07] Saved to "Analysis/Values/0.3/20190718.bin"
+[2020-05-20 00:23:40] Analysis/Values/0.3/20190718-state.json - State saved
+--- 20190719 : 27.998 seconds , 9617 changed , 9102203 addresses ---
+[2020-05-20 00:24:10] Saved to "Analysis/Values/0.3/20190719.bin"
+--- 20190720 : 29.585 seconds , 9204 changed , 9478729 addresses ---
+[2020-05-20 00:24:41] Saved to "Analysis/Values/0.3/20190720.bin"
+--- 20190721 : 30.227 seconds , 7473 changed , 9763443 addresses ---
+[2020-05-20 00:25:12] Saved to "Analysis/Values/0.3/20190721.bin"
+--- 20190722 : 24.219 seconds , 7288 changed , 10113984 addresses ---
+[2020-05-20 00:25:38] Saved to "Analysis/Values/0.3/20190722.bin"
+--- 20190723 : 25.055 seconds , 7549 changed , 10496095 addresses ---
+[2020-05-20 00:26:04] Saved to "Analysis/Values/0.3/20190723.bin"
+--- 20190724 : 26.663 seconds , 7361 changed , 10850360 addresses ---
+[2020-05-20 00:26:32] Saved to "Analysis/Values/0.3/20190724.bin"
+--- 20190725 : 28.680 seconds , 7428 changed , 11248669 addresses ---
+[2020-05-20 00:27:03] Saved to "Analysis/Values/0.3/20190725.bin"
+--- 20190726 : 28.830 seconds , 7454 changed , 11641994 addresses ---
+[2020-05-20 00:27:33] Saved to "Analysis/Values/0.3/20190726.bin"
+--- 20190727 : 29.494 seconds , 7507 changed , 11971386 addresses ---
+[2020-05-20 00:28:04] Saved to "Analysis/Values/0.3/20190727.bin"
+--- 20190728 : 30.091 seconds , 6925 changed , 12237173 addresses ---
+[2020-05-20 00:28:37] Saved to "Analysis/Values/0.3/20190728.bin"
+--- 20190729 : 29.763 seconds , 6351 changed , 12579893 addresses ---
+[2020-05-20 00:29:09] Saved to "Analysis/Values/0.3/20190729.bin"
+--- 20190730 : 30.401 seconds , 6913 changed , 12965427 addresses ---
+[2020-05-20 00:29:41] Saved to "Analysis/Values/0.3/20190730.bin"
+--- 20190731 : 34.366 seconds , 6990 changed , 13369080 addresses ---
+[2020-05-20 00:30:17] Saved to "Analysis/Values/0.3/20190731.bin"
+--- 20190801 : 43.743 seconds , 7513 changed , 13768507 addresses ---
+[2020-05-20 00:31:03] Saved to "Analysis/Values/0.3/20190801.bin"
+--- 20190802 : 45.460 seconds , 7595 changed , 14177910 addresses ---
+[2020-05-20 00:31:52] Saved to "Analysis/Values/0.3/20190802.bin"
+--- 20190803 : 45.124 seconds , 7615 changed , 14517503 addresses ---
+[2020-05-20 00:32:40] Saved to "Analysis/Values/0.3/20190803.bin"
+--- 20190804 : 45.591 seconds , 7141 changed , 14815283 addresses ---
+[2020-05-20 00:33:28] Saved to "Analysis/Values/0.3/20190804.bin"
+--- 20190805 : 46.895 seconds , 7136 changed , 15203942 addresses ---
+[2020-05-20 00:34:17] Saved to "Analysis/Values/0.3/20190805.bin"
+--- 20190806 : 49.941 seconds , 7357 changed , 15626901 addresses ---
+[2020-05-20 00:35:10] Saved to "Analysis/Values/0.3/20190806.bin"
+--- 20190807 : 51.128 seconds , 7490 changed , 16053653 addresses ---
+[2020-05-20 00:36:04] Saved to "Analysis/Values/0.3/20190807.bin"
+[2020-05-20 00:37:09] Analysis/Values/0.3/20190807-state.json - State saved
+--- 20190808 : 39.424 seconds , 7327 changed , 16446295 addresses ---
+[2020-05-20 00:37:49] Saved to "Analysis/Values/0.3/20190808.bin"
+--- 20190809 : 41.179 seconds , 7234 changed , 16823460 addresses ---
+[2020-05-20 00:38:33] Saved to "Analysis/Values/0.3/20190809.bin"
+--- 20190810 : 40.960 seconds , 6999 changed , 17167609 addresses ---
+[2020-05-20 00:39:16] Saved to "Analysis/Values/0.3/20190810.bin"
+--- 20190811 : 42.215 seconds , 6614 changed , 17447203 addresses ---
+[2020-05-20 00:40:01] Saved to "Analysis/Values/0.3/20190811.bin"
+--- 20190812 : 43.282 seconds , 6060 changed , 17771946 addresses ---
+[2020-05-20 00:40:47] Saved to "Analysis/Values/0.3/20190812.bin"
+--- 20190813 : 43.871 seconds , 6724 changed , 18139238 addresses ---
+[2020-05-20 00:41:34] Saved to "Analysis/Values/0.3/20190813.bin"
+--- 20190814 : 45.838 seconds , 6604 changed , 18519362 addresses ---
+[2020-05-20 00:42:22] Saved to "Analysis/Values/0.3/20190814.bin"
+--- 20190815 : 47.478 seconds , 7258 changed , 18898210 addresses ---
+[2020-05-20 00:43:13] Saved to "Analysis/Values/0.3/20190815.bin"
+--- 20190816 : 47.955 seconds , 7273 changed , 19245870 addresses ---
+[2020-05-20 00:44:03] Saved to "Analysis/Values/0.3/20190816.bin"
+--- 20190817 : 48.700 seconds , 7542 changed , 19572931 addresses ---
+[2020-05-20 00:44:55] Saved to "Analysis/Values/0.3/20190817.bin"
+--- 20190818 : 52.417 seconds , 7111 changed , 19845591 addresses ---
+[2020-05-20 00:45:50] Saved to "Analysis/Values/0.3/20190818.bin"
+--- 20190819 : 50.720 seconds , 6787 changed , 20199836 addresses ---
+[2020-05-20 00:46:43] Saved to "Analysis/Values/0.3/20190819.bin"
+--- 20190820 : 50.486 seconds , 7292 changed , 20536217 addresses ---
+[2020-05-20 00:47:37] Saved to "Analysis/Values/0.3/20190820.bin"
+--- 20190821 : 51.841 seconds , 10959 changed , 20955077 addresses ---
+[2020-05-20 00:48:32] Saved to "Analysis/Values/0.3/20190821.bin"
+--- 20190822 : 53.515 seconds , 11405 changed , 21340198 addresses ---
+[2020-05-20 00:49:28] Saved to "Analysis/Values/0.3/20190822.bin"
+--- 20190823 : 53.270 seconds , 11129 changed , 21732286 addresses ---
+[2020-05-20 00:50:25] Saved to "Analysis/Values/0.3/20190823.bin"
+--- 20190824 : 53.599 seconds , 9518 changed , 22061122 addresses ---
+[2020-05-20 00:51:21] Saved to "Analysis/Values/0.3/20190824.bin"
+--- 20190825 : 54.206 seconds , 7687 changed , 22334000 addresses ---
+[2020-05-20 00:52:18] Saved to "Analysis/Values/0.3/20190825.bin"
+--- 20190826 : 55.073 seconds , 6975 changed , 22673611 addresses ---
+[2020-05-20 00:53:17] Saved to "Analysis/Values/0.3/20190826.bin"
+--- 20190827 : 55.615 seconds , 6903 changed , 23066606 addresses ---
+[2020-05-20 00:54:16] Saved to "Analysis/Values/0.3/20190827.bin"
+[2020-05-20 00:55:47] Analysis/Values/0.3/20190827-state.json - State saved
+--- 20190828 : 74.570 seconds , 6972 changed , 23422274 addresses ---
+[2020-05-20 00:57:02] Saved to "Analysis/Values/0.3/20190828.bin"
+--- 20190829 : 73.750 seconds , 6915 changed , 23787672 addresses ---
+[2020-05-20 00:58:20] Saved to "Analysis/Values/0.3/20190829.bin"
+--- 20190830 : 75.368 seconds , 6911 changed , 24180721 addresses ---
+[2020-05-20 00:59:39] Saved to "Analysis/Values/0.3/20190830.bin"
+--- 20190831 : 75.430 seconds , 7054 changed , 24506363 addresses ---
+[2020-05-20 01:00:58] Saved to "Analysis/Values/0.3/20190831.bin"
+--- 20190901 : 76.616 seconds , 6557 changed , 24787999 addresses ---
+[2020-05-20 01:02:18] Saved to "Analysis/Values/0.3/20190901.bin"
+--- 20190902 : 75.152 seconds , 6869 changed , 25129614 addresses ---
+[2020-05-20 01:03:37] Saved to "Analysis/Values/0.3/20190902.bin"
+--- 20190903 : 75.706 seconds , 7154 changed , 25554381 addresses ---
+[2020-05-20 01:04:57] Saved to "Analysis/Values/0.3/20190903.bin"
+--- 20190904 : 77.332 seconds , 7119 changed , 25938462 addresses ---
+[2020-05-20 01:06:18] Saved to "Analysis/Values/0.3/20190904.bin"
+--- 20190905 : 76.794 seconds , 6973 changed , 26340043 addresses ---
+[2020-05-20 01:07:39] Saved to "Analysis/Values/0.3/20190905.bin"
+--- 20190906 : 81.209 seconds , 7080 changed , 26745189 addresses ---
+[2020-05-20 01:09:05] Saved to "Analysis/Values/0.3/20190906.bin"
+--- 20190907 : 80.900 seconds , 7133 changed , 27089292 addresses ---
+[2020-05-20 01:10:29] Saved to "Analysis/Values/0.3/20190907.bin"
+--- 20190908 : 81.927 seconds , 6713 changed , 27388912 addresses ---
+[2020-05-20 01:11:55] Saved to "Analysis/Values/0.3/20190908.bin"
+--- 20190909 : 81.261 seconds , 7053 changed , 27741896 addresses ---
+[2020-05-20 01:13:20] Saved to "Analysis/Values/0.3/20190909.bin"
+--- 20190910 : 84.576 seconds , 7407 changed , 28145121 addresses ---
+[2020-05-20 01:14:49] Saved to "Analysis/Values/0.3/20190910.bin"
+--- 20190911 : 86.291 seconds , 7188 changed , 28535724 addresses ---
+[2020-05-20 01:16:20] Saved to "Analysis/Values/0.3/20190911.bin"
+--- 20190912 : 83.871 seconds , 7024 changed , 28927157 addresses ---
+[2020-05-20 01:17:48] Saved to "Analysis/Values/0.3/20190912.bin"
+--- 20190913 : 86.736 seconds , 7315 changed , 29300246 addresses ---
+[2020-05-20 01:19:19] Saved to "Analysis/Values/0.3/20190913.bin"
+--- 20190914 : 87.976 seconds , 7118 changed , 29664967 addresses ---
+[2020-05-20 01:20:52] Saved to "Analysis/Values/0.3/20190914.bin"
+--- 20190915 : 86.703 seconds , 7139 changed , 29963305 addresses ---
+[2020-05-20 01:22:22] Saved to "Analysis/Values/0.3/20190915.bin"
+--- 20190916 : 87.747 seconds , 7300 changed , 30331908 addresses ---
+[2020-05-20 01:23:55] Saved to "Analysis/Values/0.3/20190916.bin"
+[2020-05-20 01:26:10] Analysis/Values/0.3/20190916-state.json - State saved
+--- 20190917 : 91.594 seconds , 7284 changed , 30717014 addresses ---
+[2020-05-20 01:27:42] Saved to "Analysis/Values/0.3/20190917.bin"
+--- 20190918 : 90.676 seconds , 7428 changed , 31148817 addresses ---
+[2020-05-20 01:29:17] Saved to "Analysis/Values/0.3/20190918.bin"
+--- 20190919 : 91.840 seconds , 7682 changed , 31523977 addresses ---
+[2020-05-20 01:30:54] Saved to "Analysis/Values/0.3/20190919.bin"
+--- 20190920 : 93.236 seconds , 7493 changed , 31907514 addresses ---
+[2020-05-20 01:32:31] Saved to "Analysis/Values/0.3/20190920.bin"
+--- 20190921 : 91.641 seconds , 7536 changed , 32288741 addresses ---
+[2020-05-20 01:34:07] Saved to "Analysis/Values/0.3/20190921.bin"
+--- 20190922 : 96.837 seconds , 7772 changed , 32591106 addresses ---
+[2020-05-20 01:35:49] Saved to "Analysis/Values/0.3/20190922.bin"
+--- 20190923 : 94.197 seconds , 9703 changed , 32944312 addresses ---
+[2020-05-20 01:37:28] Saved to "Analysis/Values/0.3/20190923.bin"
+--- 20190924 : 96.638 seconds , 9688 changed , 33359107 addresses ---
+[2020-05-20 01:39:10] Saved to "Analysis/Values/0.3/20190924.bin"
+--- 20190925 : 96.050 seconds , 8939 changed , 33749394 addresses ---
+[2020-05-20 01:40:51] Saved to "Analysis/Values/0.3/20190925.bin"
+--- 20190926 : 98.887 seconds , 8950 changed , 34122160 addresses ---
+[2020-05-20 01:42:35] Saved to "Analysis/Values/0.3/20190926.bin"
+--- 20190927 : 100.208 seconds , 8394 changed , 34472597 addresses ---
+[2020-05-20 01:44:20] Saved to "Analysis/Values/0.3/20190927.bin"
+--- 20190928 : 104.110 seconds , 8047 changed , 34818035 addresses ---
+[2020-05-20 01:46:09] Saved to "Analysis/Values/0.3/20190928.bin"
+--- 20190929 : 103.488 seconds , 7687 changed , 35121047 addresses ---
+[2020-05-20 01:47:58] Saved to "Analysis/Values/0.3/20190929.bin"
+--- 20190930 : 104.356 seconds , 7658 changed , 35467604 addresses ---
+[2020-05-20 01:49:48] Saved to "Analysis/Values/0.3/20190930.bin"
+--- 20191001 : 106.882 seconds , 7751 changed , 35876457 addresses ---
+[2020-05-20 01:51:40] Saved to "Analysis/Values/0.3/20191001.bin"
+--- 20191002 : 90.586 seconds , 7657 changed , 36251936 addresses ---
+[2020-05-20 01:53:16] Saved to "Analysis/Values/0.3/20191002.bin"
+--- 20191003 : 87.171 seconds , 7772 changed , 36623168 addresses ---
+[2020-05-20 01:54:48] Saved to "Analysis/Values/0.3/20191003.bin"
+--- 20191004 : 113.405 seconds , 7707 changed , 37006519 addresses ---
+[2020-05-20 01:56:46] Saved to "Analysis/Values/0.3/20191004.bin"
+--- 20191005 : 114.556 seconds , 8070 changed , 37343652 addresses ---
+[2020-05-20 01:58:46] Saved to "Analysis/Values/0.3/20191005.bin"
+--- 20191006 : 89.112 seconds , 7756 changed , 37642748 addresses ---
+[2020-05-20 02:00:21] Saved to "Analysis/Values/0.3/20191006.bin"
+[2020-05-20 02:02:41] Analysis/Values/0.3/20191006-state.json - State saved
+--- 20191007 : 93.797 seconds , 7962 changed , 37990522 addresses ---
+[2020-05-20 02:04:16] Saved to "Analysis/Values/0.3/20191007.bin"
+--- 20191008 : 95.053 seconds , 8452 changed , 38384248 addresses ---
+[2020-05-20 02:05:56] Saved to "Analysis/Values/0.3/20191008.bin"
+--- 20191009 : 92.563 seconds , 8685 changed , 38717879 addresses ---
+[2020-05-20 02:07:33] Saved to "Analysis/Values/0.3/20191009.bin"
+--- 20191010 : 95.283 seconds , 8707 changed , 39132166 addresses ---
+[2020-05-20 02:09:14] Saved to "Analysis/Values/0.3/20191010.bin"
+--- 20191011 : 96.377 seconds , 8697 changed , 39484697 addresses ---
+[2020-05-20 02:10:56] Saved to "Analysis/Values/0.3/20191011.bin"
+--- 20191012 : 96.381 seconds , 8610 changed , 39837618 addresses ---
+[2020-05-20 02:12:37] Saved to "Analysis/Values/0.3/20191012.bin"
+--- 20191013 : 96.242 seconds , 8272 changed , 40136257 addresses ---
+[2020-05-20 02:14:19] Saved to "Analysis/Values/0.3/20191013.bin"
+--- 20191014 : 95.755 seconds , 7873 changed , 40463967 addresses ---
+[2020-05-20 02:16:00] Saved to "Analysis/Values/0.3/20191014.bin"
+--- 20191015 : 100.184 seconds , 7782 changed , 40848621 addresses ---
+[2020-05-20 02:17:46] Saved to "Analysis/Values/0.3/20191015.bin"
+--- 20191016 : 99.771 seconds , 8343 changed , 41228637 addresses ---
+[2020-05-20 02:19:31] Saved to "Analysis/Values/0.3/20191016.bin"
+--- 20191017 : 100.973 seconds , 8139 changed , 41599727 addresses ---
+[2020-05-20 02:21:18] Saved to "Analysis/Values/0.3/20191017.bin"
+--- 20191018 : 101.218 seconds , 8499 changed , 41968694 addresses ---
+[2020-05-20 02:23:05] Saved to "Analysis/Values/0.3/20191018.bin"
+--- 20191019 : 103.324 seconds , 8682 changed , 42318769 addresses ---
+[2020-05-20 02:24:54] Saved to "Analysis/Values/0.3/20191019.bin"
+--- 20191020 : 103.068 seconds , 8395 changed , 42627297 addresses ---
+[2020-05-20 02:26:43] Saved to "Analysis/Values/0.3/20191020.bin"
+--- 20191021 : 104.175 seconds , 8333 changed , 42997702 addresses ---
+[2020-05-20 02:28:33] Saved to "Analysis/Values/0.3/20191021.bin"
+--- 20191022 : 104.857 seconds , 8820 changed , 43380704 addresses ---
+[2020-05-20 02:30:24] Saved to "Analysis/Values/0.3/20191022.bin"
+--- 20191023 : 106.948 seconds , 9172 changed , 43761584 addresses ---
+[2020-05-20 02:32:17] Saved to "Analysis/Values/0.3/20191023.bin"
+--- 20191024 : 112.537 seconds , 8897 changed , 44110357 addresses ---
+[2020-05-20 02:34:16] Saved to "Analysis/Values/0.3/20191024.bin"
+--- 20191025 : 111.201 seconds , 8650 changed , 44494622 addresses ---
+[2020-05-20 02:36:13] Saved to "Analysis/Values/0.3/20191025.bin"
+--- 20191026 : 178.059 seconds , 8632 changed , 44889864 addresses ---
+[2020-05-20 02:39:18] Saved to "Analysis/Values/0.3/20191026.bin"
+[2020-05-20 02:42:08] Analysis/Values/0.3/20191026-state.json - State saved
+--- 20191027 : 150.342 seconds , 7394 changed , 45192557 addresses ---
+[2020-05-20 02:44:40] Saved to "Analysis/Values/0.3/20191027.bin"
+--- 20191028 : 148.463 seconds , 7072 changed , 45548090 addresses ---
+[2020-05-20 02:47:15] Saved to "Analysis/Values/0.3/20191028.bin"
+--- 20191029 : 178.031 seconds , 7098 changed , 45937966 addresses ---
+[2020-05-20 02:50:20] Saved to "Analysis/Values/0.3/20191029.bin"
+--- 20191030 : 158.777 seconds , 6857 changed , 46302795 addresses ---
+[2020-05-20 02:53:08] Saved to "Analysis/Values/0.3/20191030.bin"
+--- 20191031 : 156.686 seconds , 7140 changed , 46692001 addresses ---
+[2020-05-20 02:55:53] Saved to "Analysis/Values/0.3/20191031.bin"
+--- 20191101 : 166.175 seconds , 6907 changed , 47048807 addresses ---
+[2020-05-20 02:58:48] Saved to "Analysis/Values/0.3/20191101.bin"
+--- 20191102 : 171.622 seconds , 7115 changed , 47415805 addresses ---
+[2020-05-20 03:01:48] Saved to "Analysis/Values/0.3/20191102.bin"
+--- 20191103 : 162.297 seconds , 6782 changed , 47727670 addresses ---
+[2020-05-20 03:04:39] Saved to "Analysis/Values/0.3/20191103.bin"
+--- 20191104 : 165.870 seconds , 6760 changed , 48099503 addresses ---
+[2020-05-20 03:07:34] Saved to "Analysis/Values/0.3/20191104.bin"
+--- 20191105 : 166.305 seconds , 7095 changed , 48521213 addresses ---
+[2020-05-20 03:10:30] Saved to "Analysis/Values/0.3/20191105.bin"
+--- 20191106 : 180.738 seconds , 7148 changed , 48916390 addresses ---
+[2020-05-20 03:13:39] Saved to "Analysis/Values/0.3/20191106.bin"
+--- 20191107 : 183.747 seconds , 6665 changed , 49290467 addresses ---
+[2020-05-20 03:16:53] Saved to "Analysis/Values/0.3/20191107.bin"
+--- 20191108 : 188.356 seconds , 7017 changed , 49707977 addresses ---
+[2020-05-20 03:20:11] Saved to "Analysis/Values/0.3/20191108.bin"
+--- 20191109 : 202.395 seconds , 6975 changed , 50077420 addresses ---
+[2020-05-20 03:23:42] Saved to "Analysis/Values/0.3/20191109.bin"
+--- 20191110 : 224.313 seconds , 6596 changed , 50377544 addresses ---
+[2020-05-20 03:27:37] Saved to "Analysis/Values/0.3/20191110.bin"
+--- 20191111 : 250.638 seconds , 6735 changed , 50720278 addresses ---
+[2020-05-20 03:31:57] Saved to "Analysis/Values/0.3/20191111.bin"
+--- 20191112 : 281.568 seconds , 7252 changed , 51058121 addresses ---
+[2020-05-20 03:36:51] Saved to "Analysis/Values/0.3/20191112.bin"
+--- 20191113 : 270.873 seconds , 7790 changed , 51454253 addresses ---
+[2020-05-20 03:41:34] Saved to "Analysis/Values/0.3/20191113.bin"
+--- 20191114 : 286.868 seconds , 7524 changed , 51832609 addresses ---
+[2020-05-20 03:46:32] Saved to "Analysis/Values/0.3/20191114.bin"
+--- 20191115 : 296.748 seconds , 7969 changed , 52210874 addresses ---
+[2020-05-20 03:51:39] Saved to "Analysis/Values/0.3/20191115.bin"
+[2020-05-20 03:58:33] Analysis/Values/0.3/20191115-state.json - State saved
+--- 20191116 : 350.276 seconds , 8048 changed , 52592750 addresses ---
+[2020-05-20 04:04:25] Saved to "Analysis/Values/0.3/20191116.bin"
+--- 20191117 : 300.742 seconds , 7423 changed , 52892562 addresses ---
+[2020-05-20 04:09:38] Saved to "Analysis/Values/0.3/20191117.bin"
+--- 20191118 : 324.634 seconds , 7008 changed , 53242213 addresses ---
+[2020-05-20 04:15:14] Saved to "Analysis/Values/0.3/20191118.bin"
+--- 20191119 : 320.811 seconds , 7122 changed , 53638004 addresses ---
+[2020-05-20 04:20:48] Saved to "Analysis/Values/0.3/20191119.bin"
+--- 20191120 : 334.583 seconds , 7161 changed , 54010938 addresses ---
+[2020-05-20 04:26:34] Saved to "Analysis/Values/0.3/20191120.bin"
+--- 20191121 : 322.926 seconds , 10311 changed , 54397387 addresses ---
+[2020-05-20 04:32:08] Saved to "Analysis/Values/0.3/20191121.bin"
+--- 20191122 : 338.911 seconds , 11556 changed , 54772503 addresses ---
+[2020-05-20 04:37:59] Saved to "Analysis/Values/0.3/20191122.bin"
+--- 20191123 : 361.132 seconds , 10823 changed , 55171731 addresses ---
+[2020-05-20 04:44:12] Saved to "Analysis/Values/0.3/20191123.bin"
+--- 20191124 : 359.017 seconds , 9534 changed , 55469157 addresses ---
+[2020-05-20 04:50:24] Saved to "Analysis/Values/0.3/20191124.bin"
+--- 20191125 : 373.482 seconds , 8158 changed , 55794809 addresses ---
+[2020-05-20 04:56:52] Saved to "Analysis/Values/0.3/20191125.bin"
+--- 20191126 : 384.157 seconds , 7991 changed , 56211228 addresses ---
+[2020-05-20 05:03:31] Saved to "Analysis/Values/0.3/20191126.bin"
+--- 20191127 : 378.594 seconds , 7340 changed , 56612032 addresses ---
+[2020-05-20 05:10:04] Saved to "Analysis/Values/0.3/20191127.bin"
+--- 20191128 : 388.546 seconds , 7337 changed , 57007529 addresses ---
+[2020-05-20 05:16:45] Saved to "Analysis/Values/0.3/20191128.bin"
+--- 20191129 : 388.339 seconds , 7312 changed , 57349405 addresses ---
+[2020-05-20 05:23:29] Saved to "Analysis/Values/0.3/20191129.bin"
+--- 20191130 : 385.481 seconds , 7468 changed , 57710849 addresses ---
+[2020-05-20 05:30:08] Saved to "Analysis/Values/0.3/20191130.bin"
+--- 20191201 : 392.502 seconds , 6952 changed , 58059977 addresses ---
+[2020-05-20 05:36:56] Saved to "Analysis/Values/0.3/20191201.bin"
+--- 20191202 : 380.292 seconds , 6915 changed , 58443170 addresses ---
+[2020-05-20 05:43:34] Saved to "Analysis/Values/0.3/20191202.bin"
+--- 20191203 : 401.056 seconds , 6983 changed , 58845600 addresses ---
+[2020-05-20 05:50:28] Saved to "Analysis/Values/0.3/20191203.bin"
