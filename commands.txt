@@ -2,3 +2,5 @@
 hexdump -C /home/taghi/snap/bitcoin-core/common/.bitcoin/blocks/blk01800.dat | cut -c 11-58 | tr '\n' ' ' | tr -d ' ' | grep 'f9beb4d9' | wc
 
 
+# Redis docker
+docker run -it --name bitcoin_addr_state -v /home/taghi/Projects/Bitcoin_Address_Extractor/db_data:/data -p 6379:6379 -d --rm redis:latest

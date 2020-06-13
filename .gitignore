@@ -2,4 +2,6 @@ Addresses/*
 Analysis/*
 Clients/*
 Days/*
+blocks/*
 venv
+db_data/*
