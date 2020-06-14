@@ -6,6 +6,7 @@ from datetime import datetime
 import base58
 import os
 from segwit_addr import encode
+import getopt, sys
 
 
 
@@ -219,10 +220,33 @@ def transaction_decomposition(txcount, txdata):
 
 if __name__ == "__main__":
 
-	for num in range(1799, 1800):
+	try:
+		opts, args = getopt.getopt(sys.argv[1:], "i:s:t:", ["input-dir=", "start=", "to="])
+	except getopt.GetoptError as err:
+		print(err)
+		sys.exit(2)
+
+	print("opts: ", opts)
+	print("args: ", args)
+
+	for o, a in opts:
+		if o in ("-i", "--input-dir"):
+			if (a[-1] == "/"):
+				input_dir = a
+			else:
+				input_dir = a+"/"
+
+		elif o in ("-s", "--start"):
+			start_num = int(a)
+		elif o in ("-t", "--to"):
+			end_num = int(a)
+		else:
+			assert False, "unhandled option"
+
+	for num in range(start_num, end_num  + 1):
 		_file_name = 'blk' + ("%05d" %num)
 		print(_file_name)
-		blkdatafile_path = '/media/taghi/Elements/bitcoin/blocks/'+_file_name+'.dat'
+		blkdatafile_path = input_dir +_file_name+'.dat'
 		with open('./Addresses/'+_file_name+'.txt', 'w') as _outfile:
 			block_decomposition(blkdatafile_path)
 
