@@ -252,11 +252,11 @@ if __name__ == "__main__":
 	r_db = redis.Redis()
 
 
-	if(False):# Generate Jsons
+	if(True):# Generate Jsons
 		json_generator(TEXT_PATH, JSON_PATH)
 
 
-	if(True):# Simulate
+	if(False):# Simulate
 		state_calculator(JSON_PATH, beta, r_db)
 
 	

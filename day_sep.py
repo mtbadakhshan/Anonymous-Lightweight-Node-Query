@@ -40,7 +40,7 @@ def day_sep(input_file):
 
 if __name__ == "__main__":
 
-	for num in range(1700, 1889):
+	for num in range(1500, 1801):
 		_file_name = 'blk' + ("%05d" %num)
 		print(_file_name)
 		addfile_path = 'Addresses/' + _file_name + '.txt'
